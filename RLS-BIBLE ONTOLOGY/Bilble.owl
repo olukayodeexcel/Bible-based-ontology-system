@@ -1,0 +1,1063 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#"
+     xml:base="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH1 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH1">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH10 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH10">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH11 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH11">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH12 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH12">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH13 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH13">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH14 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH14">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH15 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH15">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH16 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH16">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH3 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH3">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH4 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH4">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH5 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH5">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH6 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH6">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH7 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH7">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH8 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH8">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH9 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1COR_CH9">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1JOH_CH1 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1JOH_CH1">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_John"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1JOH_CH2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1JOH_CH2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_John"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1JOH_CH3 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1JOH_CH3">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_John"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1JOH_CH4 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1JOH_CH4">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_John"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1JOH_CH5 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1JOH_CH5">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_John"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1PET_CH1 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1PET_CH1">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Peter"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1PET_CH2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1PET_CH2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Peter"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1PET_CH3 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1PET_CH3">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Peter"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1PET_CH4 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1PET_CH4">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Peter"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1PET_CH5 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1PET_CH5">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Peter"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TH_CH1 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TH_CH1">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Thessalonians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TH_CH2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TH_CH2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Thessalonians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TH_CH3 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TH_CH3">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Thessalonians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TH_CH4 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TH_CH4">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Thessalonians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TH_CH5 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TH_CH5">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Thessalonians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH1 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH1">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Timothy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Timothy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH3 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH3">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Timothy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH4 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH4">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Timothy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH5 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH5">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Timothy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH6 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1TIM_CH6">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Timothy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Chronicles -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Chronicles">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_John -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_John">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Peter -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Peter">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Samuel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Samuel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Thessalonians -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Thessalonians">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Timothy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_Timothy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_corinthians">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_kings -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#1_kings">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH1 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH1">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH10 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH10">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH11 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH11">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH12 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH12">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH13 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH13">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH3 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH3">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH4 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH4">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH5 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH5">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH6 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH6">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH7 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH7">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH8 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH8">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH9 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2COR_CH9">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2JOH_CH1 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2JOH_CH1">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_John"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2PET_CH1 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2PET_CH1">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Peter"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2PET_CH2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2PET_CH2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Peter"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2PET_CH3 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2PET_CH3">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Peter"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2THES_CH1 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2THES_CH1">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_thessalonians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2THES_CH2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2THES_CH2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_thessalonians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2THES_CH3 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2THES_CH3">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_thessalonians"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2TIM_CH5 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2TIM_CH5">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Timothy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2TIM_CH6 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2TIM_CH6">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Timothy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Chronicles -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Chronicles">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_John -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_John">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Kings -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Kings">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Peter -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Peter">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Samuel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Samuel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Timothy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_Timothy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_corinthians">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_thessalonians -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#2_thessalonians">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#3_John -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#3_John">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Acts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Acts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Amos -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Amos">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#BIBLE -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#BIBLE"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Colossians -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Colossians">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Daniel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Daniel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Deuteronomy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Deuteronomy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Ecclesiastes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Ecclesiastes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Ephesians -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Ephesians">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Esther -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Esther">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Exodus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Exodus">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Ezekiel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Ezekiel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Ezra -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Ezra">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Galatians -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Galatians">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Genesis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Genesis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Habakkuk -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Habakkuk">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Haggai -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Haggai">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Hebrews -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Hebrews">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Holy_Bible -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Holy_Bible"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Hosea -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Hosea">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Isaiah -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Isaiah">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#James -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#James">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Jeremiah -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Jeremiah">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Job -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Job">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Joel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Joel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#John -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#John">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Jonah -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Jonah">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Joshua -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Joshua">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Jude -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Jude">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Judges -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Judges">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Lamentation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Lamentation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Leviticus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Leviticus">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Luke -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Luke">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Malachi -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Malachi">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Mark -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Mark">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Matthew -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Matthew">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Micah -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Micah">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Nahum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Nahum">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Nehemiah -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Nehemiah">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Holy_Bible"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Numbers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Numbers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Obadiah -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Obadiah">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Holy_Bible"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Philemon -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Philemon">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Philippians -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Philippians">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Proverbs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Proverbs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Psalm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Psalm">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Revelation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Revelation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Romans -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Romans">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Ruth -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Ruth">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Song_of_solomon -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Song_of_solomon">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Titus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Titus">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#New_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Zechariah -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Zechariah">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Zephaniah -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Zephaniah">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2023/2/untitled-ontology-11#Old_Testament"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

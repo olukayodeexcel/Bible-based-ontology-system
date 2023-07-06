@@ -1,0 +1,76 @@
+{
+    "name": "Hello World",
+    "layout": {
+        "props": {},
+        "version": "0.1",
+        "widgets": {
+            "e6ccfd0f-e758-4ec3-b6f5-9cbdc1519125": {
+                "id": "e6ccfd0f-e758-4ec3-b6f5-9cbdc1519125",
+                "type": "markdown-output",
+                "colEnd": 10,
+                "colStart": 1,
+                "rowEnd": 3,
+                "rowStart": 0,
+                "props": {
+                    "text": "display_greeting()"
+                },
+                "events": {}
+            },
+            "af1530cd-4a20-48f9-870e-640e34067c2c": {
+                "id": "af1530cd-4a20-48f9-870e-640e34067c2c",
+                "type": "text-input",
+                "colEnd": 10,
+                "colStart": 1,
+                "rowEnd": 8,
+                "rowStart": 6,
+                "props": {
+                    "label": "\"Enter search term\"",
+                    "required": "",
+                    "hint": "",
+                    "placeholder": "\"Adultery\""
+                },
+                "events": {},
+                "variable": "search_term"
+            },
+            "75676536-2c21-41f2-b376-b78c93a20055": {
+                "id": "75676536-2c21-41f2-b376-b78c93a20055",
+                "type": "click-input",
+                "colEnd": 8,
+                "colStart": 3,
+                "rowEnd": 10,
+                "rowStart": 9,
+                "props": {
+                    "label": "\"Search\""
+                },
+                "events": {
+                    "click": "onClick_search_button()"
+                }
+            },
+            "0c596f1f-c562-4eb1-82e2-d1c8fa1b896a": {
+                "id": "0c596f1f-c562-4eb1-82e2-d1c8fa1b896a",
+                "type": "markdown-output",
+                "colEnd": 10,
+                "colStart": 1,
+                "rowEnd": 22,
+                "rowStart": 12,
+                "props": {
+                    "text": "result_display()"
+                },
+                "events": {}
+            },
+            "8be0e8a7-6a0f-4acc-b8bd-2d6a919cd4e1": {
+                "id": "8be0e8a7-6a0f-4acc-b8bd-2d6a919cd4e1",
+                "type": "markdown-output",
+                "colEnd": 10,
+                "colStart": 1,
+                "rowEnd": 5,
+                "rowStart": 4,
+                "props": {
+                    "text": "display_search_term()"
+                },
+                "events": {}
+            }
+        }
+    },
+    "title": "helloworld"
+}
